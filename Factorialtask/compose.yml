@@ -1,0 +1,5 @@
+services:
+  webcontainer:
+    image: nginx
+    ports:
+      - 8089:80
